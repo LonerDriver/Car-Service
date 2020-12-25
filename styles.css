@@ -1,0 +1,96 @@
+body{
+    background-color: #fddcce;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Helvetica", serif;
+} 
+
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+
+footer{
+	position: relative;
+	margin-top: 100px;
+	height: 250px;
+    background-color: #002D3C;
+    font-size: 12px;
+    font-family: "Helvetica", serif;
+    text-align: start;
+    color: #ffffff;
+}
+
+.card-body {
+    background-color: #ff6a3a;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #ff6a3a;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-body1 {
+    background-color: #ff6a3a;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-body2 {
+    background-color: #ff6a3a;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card {
+    background-color: #ff6a3a;
+    border-color: #000000;
+    border-width: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin: auto;
+    color: #ffffff;
+}
+
+.form-row {
+    position: relative;;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.nav-item > .btn-dark{
+    position: relative;;
+    top: 0px;
+    left: 200px;
+}
+
+form{
+    margin: auto;
+}
+
+form > button{
+    position: relative;
+    top: 40px;
+    left: 150px;
+}
+
+.col-8{
+    position: relative;
+    margin-top: 20px;
+}
+
+
+.col-sm{
+    position: relative;;
+    margin-top: 10px;
+}
